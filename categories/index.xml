@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 개발블로그</title>
+    <link>https://seolhwacode.github.io/devlog/categories/</link>
+    <description>Recent content in Categories on 개발블로그</description>
+    <image>
+      <url>https://seolhwacode.github.io/devlog/papermod-cover.png</url>
+      <link>https://seolhwacode.github.io/devlog/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 14 Apr 2021 18:22:46 +0900</lastBuildDate><atom:link href="https://seolhwacode.github.io/devlog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://seolhwacode.github.io/devlog/categories/test/</link>
+      <pubDate>Wed, 14 Apr 2021 18:22:46 +0900</pubDate>
+      
+      <guid>https://seolhwacode.github.io/devlog/categories/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

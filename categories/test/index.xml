@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on 개발블로그</title>
+    <link>https://seolhwacode.github.io/devlog/categories/test/</link>
+    <description>Recent content in test on 개발블로그</description>
+    <image>
+      <url>https://seolhwacode.github.io/devlog/papermod-cover.png</url>
+      <link>https://seolhwacode.github.io/devlog/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 14 Apr 2021 18:22:46 +0900</lastBuildDate><atom:link href="https://seolhwacode.github.io/devlog/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://seolhwacode.github.io/devlog/post/study/20210405/</link>
+      <pubDate>Wed, 14 Apr 2021 18:22:46 +0900</pubDate>
+      
+      <guid>https://seolhwacode.github.io/devlog/post/study/20210405/</guid>
+      <description>2021.04.05 공부한것 웹 브라우저에서 개발자 도구 - 검사 도구  검사 도구 : f12(ctr+shift+i)
+  화면을 나타내는 html 파일을 표시. 맨 왼쪽 위의 선택을 활용하여 아래의 styles에서 테스트 할 수 있다. console 창 : javascript를 테스트 수행 할 수 있다. 오류 또한 출력한다.  
+html 기초  html 기본 요소들
+  html5 형식의 문자열이라고 웹브라우저에 알리기  &amp;lt;!DOCTYPE html&amp;gt; 주요 언어 설정 : en(영어), ko(한글)  &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; head요소 : head에는 여러가지 설정 정보가 들어간다.</description>
+    </item>
+    
+  </channel>
+</rss>
