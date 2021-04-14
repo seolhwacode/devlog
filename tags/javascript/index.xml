@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>개발블로그</title>
-    <link>https://seolhwacode.github.io/devlog/</link>
-    <description>Recent content on 개발블로그</description>
+    <title>javascript on 개발블로그</title>
+    <link>https://seolhwacode.github.io/devlog/tags/javascript/</link>
+    <description>Recent content in javascript on 개발블로그</description>
     <image>
       <url>https://seolhwacode.github.io/devlog/papermod-cover.png</url>
       <link>https://seolhwacode.github.io/devlog/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 14 Apr 2021 18:22:46 +0900</lastBuildDate><atom:link href="https://seolhwacode.github.io/devlog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Apr 2021 18:22:46 +0900</lastBuildDate><atom:link href="https://seolhwacode.github.io/devlog/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021.04.05 공부한것</title>
       <link>https://seolhwacode.github.io/devlog/post/study/20210405/</link>
@@ -21,7 +21,6 @@
 html 기초  html 기본 요소들
   html5 형식의 문자열이라고 웹브라우저에 알리기  &amp;lt;!DOCTYPE html&amp;gt; 주요 언어 설정 : en(영어), ko(한글)  &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; head요소 : head에는 여러가지 설정 정보가 들어간다.</description>
     </item>
-    
     
   </channel>
 </rss>
