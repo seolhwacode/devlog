@@ -12,14 +12,15 @@
     <lastBuildDate>Thu, 15 Apr 2021 23:07:43 +0900</lastBuildDate><atom:link href="https://seolhwacode.github.io/devlog/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021.04.06 공부한 것</title>
-      <link>https://seolhwacode.github.io/devlog/20210406%EC%88%98%EC%97%85%EB%B3%B5%EC%8A%B5/</link>
+      <link>https://seolhwacode.github.io/devlog/post/study/20210406%EC%88%98%EC%97%85%EB%B3%B5%EC%8A%B5/</link>
       <pubDate>Thu, 15 Apr 2021 23:07:43 +0900</pubDate>
       
-      <guid>https://seolhwacode.github.io/devlog/20210406%EC%88%98%EC%97%85%EB%B3%B5%EC%8A%B5/</guid>
-      <description>2021.04.06 공부한것 목차 1. HTML-TABLE 2. HTML-FORM
-
+      <guid>https://seolhwacode.github.io/devlog/post/study/20210406%EC%88%98%EC%97%85%EB%B3%B5%EC%8A%B5/</guid>
+      <description>2021.04.06 공부한것 
 HTML - table  table의 기본 구조
-  &amp;lt;table&amp;gt;&amp;lt;/table&amp;gt; : 표 정의 태그 &amp;lt;tr&amp;gt;&amp;lt;/tr&amp;gt; (table row) : 표의 행(가로줄) &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;(table head) : 표의 헤드라인. 디폴트로 굵은 글씨 &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt; : &amp;lt;tr&amp;gt;&amp;lt;/tr&amp;gt; 태그 내부에서 사용된다. 행의 열의 값을 채워 넣는다.  &amp;lt;h1&amp;gt;표(table) 형식으로 정보를 출력하기&amp;lt;/h1&amp;gt; &amp;lt;table&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;th&amp;gt;번호&amp;lt;/th&amp;gt; &amp;lt;th&amp;gt;이름&amp;lt;/th&amp;gt; &amp;lt;th&amp;gt;주소&amp;lt;/th&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;1&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;김이박&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;김해&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;2&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;사람&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;부산&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;/table&amp;gt;</description>
+  &amp;lt;table&amp;gt;&amp;lt;/table&amp;gt; : 표 정의 태그 &amp;lt;tr&amp;gt;&amp;lt;/tr&amp;gt; (table row) : 표의 행(가로줄) &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;(table head) : 표의 헤드라인. 디폴트로 굵은 글씨 &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt; : &amp;lt;tr&amp;gt;&amp;lt;/tr&amp;gt; 태그 내부에서 사용된다. 행의 열의 값을 채워 넣는다.  &amp;lt;h1&amp;gt;표(table) 형식으로 정보를 출력하기&amp;lt;/h1&amp;gt; &amp;lt;table&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;th&amp;gt;번호&amp;lt;/th&amp;gt; &amp;lt;th&amp;gt;이름&amp;lt;/th&amp;gt; &amp;lt;th&amp;gt;주소&amp;lt;/th&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;1&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;김이박&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;김해&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;2&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;사람&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;부산&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;/table&amp;gt; 
+ table의 여러 기능
+  border : 표의 테두리 그리기 (선이 2개로 나옴)  &amp;lt;table border=&amp;#34;1&amp;#34;&amp;gt;&amp;lt;/table&amp;gt; caption : 표의 제목   &amp;lt;table&amp;gt; &amp;lt;caption&amp;gt;회원 목록&amp;lt;/caption&amp;gt; &amp;lt;/table&amp;gt;</description>
     </item>
     
     <item>
